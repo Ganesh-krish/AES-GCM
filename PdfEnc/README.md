@@ -180,3 +180,4 @@ This project demonstrates AES-CTR PDF encryption for educational purposes.
 
 - **ImgEnc**: Image encryption system using same algorithm
 - **AES-GCM**: General purpose encryption toolkit
+

@@ -297,3 +297,4 @@ document.addEventListener('DOMContentLoaded', function() {
         statusDiv.style.display = message ? 'block' : 'none';
     }
 });
+
